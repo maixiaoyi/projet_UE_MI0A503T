@@ -1,0 +1,57 @@
+---
+title: "ACP : projet 2024-2025"
+author: "NOM1 Prénom1, NOM2 Prénom2"
+date: ""
+output: 
+  html_document: 
+    toc: yes
+  pdf_document: 
+    toc: yes
+---
+
+<style type="text/css">
+  body{
+  font-size: 13pt;
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# 1) Chargement des données
+
+
+```{r}
+PIZZA = read.csv("http://www.math.univ-toulouse.fr/~ferraty/DATA/pizza.csv", stringsAsFactors=TRUE)
+```
+
+
+# 2) Affichage du résumé des données
+
+
+# 3) Réalisation de l'ACP SANS représentation des individus et variables
+
+
+# 4) Décroissance des inerties : combien d'axes doit-on retenir pour réaliser l'ACP?
+
+
+# 5) Représentation des individus
+
+
+# 6) Représentation des variables
+
+
+# 7) Interprétation de l'axe 1
+
+
+# 8) Interprétation de l'axe 2
+
+
+# 9) Synthèse
+
+
+# Annexes
+
+
+
